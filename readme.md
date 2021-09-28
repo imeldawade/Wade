@@ -14,4 +14,4 @@
 * Mark Down
 
 ### Sample picture
-!{readme}(./download(1).jpeg(read-only))
+!{readme}(./download(1).jpeg)
